@@ -6,7 +6,7 @@ import requests
 import time
 import yaml
 
-TOKEN = "109401371:AAEw4eakpQGmoWp5FaR6CpyqHZo-m3SKlOs"
+TOKEN = "6423262935:AAHg2HxdruRwzMl6sMoUpL5b9sxsUw4rgGA"
 URL = "https://api.telegram.org/bot" + TOKEN
 
 def getData():
